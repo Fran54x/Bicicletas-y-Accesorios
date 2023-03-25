@@ -1,3 +1,13 @@
+# Bicicletas y Accesorios
+
+Página Web o E-commerce de Bicicletas y Accesorios
+
+## Tecnologías usadas
+
+* Node.js v 16.14.2
+* .Net6
+* React v 18.2.0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
